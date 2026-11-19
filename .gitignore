@@ -1,0 +1,8 @@
+# Build output written by `node main.ts` (MAKEFUN_OUTPUT_DIR=out): regenerated, never committed.
+out/
+
+# The sealed snapshot is mounted at /input by the grader, never shipped in the repository.
+snapshot.json
+
+# make.fun internal (contains wallet + anchor signature — NEVER commit)
+.makefun/
