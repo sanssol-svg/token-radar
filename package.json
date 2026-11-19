@@ -1,0 +1,9 @@
+{
+  "name": "token-radar",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Token Radar: a pre-token protocol board — one sealed snapshot in, one ranked board out (make.fun token-radar-01 entry).",
+  "scripts": {
+    "start": "node main.ts --input snapshot.json"
+  }
+}
